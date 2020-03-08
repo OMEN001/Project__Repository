@@ -1,0 +1,3 @@
+url:www.baidu.com,mobile_phone:13830052369,passwd:123489
+url:www.qq.com,mobile_phone:13830052369,passwd:121569
+url:www.tecent.com,mobile_phone:13830052369,passwd:489489
